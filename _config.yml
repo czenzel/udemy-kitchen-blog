@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Cooking Techniques and Methods
+title: Sizzle & Spice Kitchen
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -56,22 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Sizzle & Spice Kitchen"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+  bio    : "Sizzle & Spice Kitchen was founded by Chef Mia, a culinary prodigy who learned to cook in her grandmother's kitchen. With a passion for bold flavors and fresh ingredients, Chef Mia built her reputation on creating innovative dishes that bring together diverse cultural influences. Today, Sizzle & Spice Kitchen is known for its mouth-watering fusion cuisine and warm, welcoming atmosphere. From its humble beginnings as a food truck to its current location in the heart of the city, Sizzle & Spice Kitchen continues to delight diners with its creative takes on classic dishes and commitment to using only the finest ingredients."
 
 footer:
   links:
